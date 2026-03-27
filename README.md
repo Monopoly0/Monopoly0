@@ -2,7 +2,7 @@
 
 Offensive security engineer and builder. I run **[Veil Protocol](https://github.com/veil-protocol)** — where I ship open-source security tooling, AI agent frameworks, and protocol research.
 
-**[limesec.com](https://limesec.com)**
+**[lime-sec.netlify.app](https://lime-sec.netlify.app)**
 
 ---
 
