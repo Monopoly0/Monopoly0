@@ -28,5 +28,5 @@ Offensive security engineer and builder. I run **[Veil Protocol](https://github.
 
 <p align="center">
   <a href="https://github.com/veil-protocol"><img src="https://img.shields.io/badge/org-veil--protocol-8e44ad?style=flat-square&logo=github" /></a>
-  <a href="[https://limesec.com](https://lime-sec.netlify.app)"><img src="https://img.shields.io/badge/web-lime-sec.netlify.app-27ae60?style=flat-square&logo=safari" /></a>
+  <a href="[https://limesec.com](https://lime-sec.netlify.app)"></a>
 </p>
